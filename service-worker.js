@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.69aefb28cc242b58d4ea575d07c206bc.js"
+  "/precache-manifest.ba2d3db4c5e52fcced4498b3ab8cf078.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "foxbel"});
